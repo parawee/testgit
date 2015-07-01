@@ -10,4 +10,6 @@ test
 add AVK3.4.1001-6302 FeatureFlag ="FixAssignToFareBasis" To ensure assigning "Fare Basis Mapping" at tax definition bundled with availability correctly.
 test 2
 dev 1
+f1
 dev 2
+f2
