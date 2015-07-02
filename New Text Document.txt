@@ -1,5 +1,25 @@
 1-->V01-->V02
 add feature 1 fix bug on this feature****
 add feature 1.2 fix bug on this feature****
+add feature 3.0
 fix bug for release 2.0
 fix bug 2 **8
+test
+test
+
+add AVK3.4.1001-6302 FeatureFlag ="FixAssignToFareBasis" To ensure assigning "Fare Basis Mapping" at tax definition bundled with availability correctly.
+test 2
+dev 1
+f1
+dev 2
+f2
+
+xx
+yy
+zz
+xxx
+yyy
+zzz
+
+fix bug release1
+fix bug release2
