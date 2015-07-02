@@ -25,3 +25,4 @@ fix bug release1
 fix bug release2
 
 fix bug release1
+fix bug release2
